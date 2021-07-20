@@ -1,2 +1,2 @@
-# get-max-number-between-eight-number
+# get-max-number-between-eight-number in c
 first edition
